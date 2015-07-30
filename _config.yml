@@ -7,7 +7,7 @@ relative_permalinks: true
 # Setup
 title:               Banana Time
 tagline:             'thoughts and code sketches'
-description:         'After an article by <a href="https://en.wikipedia.org/wiki/Donald_Francis_Roy">Donald Roy</a> and the many "banana times" I have spent with colleagues.'
+description:         'Musings, experiments, and observations.'
 url:                 http://michaelplaing@github.io
 baseurl:             ''
 paginate:            5
